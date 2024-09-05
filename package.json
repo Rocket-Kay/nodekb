@@ -15,10 +15,10 @@
     "express": "^4.15.3",
     "express-messages": "^1.0.1",
     "express-session": "^1.15.3",
-    "express-validator": "^3.2.0",
-    "mongoose": "^5.7.7",
+    "express-validator": "^6.10.1",
+    "mongoose": "^5.12.4",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.0-rc.1"
+    "pug": "^3.0.1"
   }
 }
